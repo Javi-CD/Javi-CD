@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![Suhaib's Banner Image](./bannergif.gif)
+  <img src="./bannergif.gif"/>
 
 <div align="center">
 <a href="https:/github.com/Javi-Cd" target="_blank">
@@ -17,7 +17,7 @@
 </div>
 
 <p align="left">
-  I am a <b>Backend develope and Automation Engineer</b>r with experience in Next.js, React.js, Node.js, Express, Rust, JavaScript and Python, along with experience in building APIs, clean code practices, backend systems, etc.
+  I am a <b>Backend developer and Automation Engineer</b>r with experience in Next.js, React.js, Node.js, Express, Rust, JavaScript and Python, along with experience in building APIs, clean code practices, backend systems, etc.
 </p>
 
 <!-- - Student of life :)
