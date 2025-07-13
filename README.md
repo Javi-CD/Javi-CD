@@ -1,6 +1,6 @@
 <!--Banner-->
 
-  <img src="./bannergif.gif"/>
+  <img src="./bannerGif.gif"/>
 
 <div align="center">
 <a href="https:/github.com/Javi-Cd" target="_blank">
