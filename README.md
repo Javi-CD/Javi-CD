@@ -17,7 +17,7 @@
 </div>
 
 <p align="left">
-  I am a <b>Backend developer and Automation Engineer</b>r with experience in Next.js, React.js, Node.js, Express, Rust, JavaScript and Python, along with experience in building APIs, clean code practices, backend systems, etc.
+  I am a <b>Backend developer and Automation Engineer</b>r with experience in Node.js, Express, Next.js, React.js, Rust, JavaScript and Python, among others, along with experience in building APIs, clean code practices, backend systems, etc.
 </p>
 
 <!-- - Student of life :)
