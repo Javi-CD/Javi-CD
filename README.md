@@ -42,6 +42,7 @@
 <img width="48" height="48" src="./assets/icons/icons8-bash-48.png" alt="bash"/> <!-- Bash -->
 <img width="48" height="48" src="./assets/icons/icons8-git-48.png" alt="git"/> <!-- Git -->
 <img width="48" height="48" src="./assets/icons/icons8-github-48.png" alt="github"/> <!-- GitHub -->
+<img width="48" height="48" src="./assets/icons/github-actions-logo.png" alt="github"/> <!-- GitHub Actions-->
 <img width="48" height="48" src="./assets/icons/swagger-logo.png" alt="swagger-logo"/> <!-- Swagger -->
 <img width="50" height="50" src="./assets/icons/icons8-vercel-50.png" alt="vercel"/> <!-- Vercel -->
 <img width="50" height="50" src="./assets/icons/railway.png" alt="Railway-logo"/> <!-- Railway -->
