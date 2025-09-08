@@ -30,7 +30,7 @@
 <img width="48" height="48" src="./assets/icons/icons8-rust-24.png" alt="Rust icon"/> <!-- Rust -->
 <img width="48" height="48" src="./assets/icons/icons8-postgres-48.png" alt="postgreesql"/> <!-- PostgreSQL -->
 <img width="50" height="50" src="./assets/icons/Sqlite-logo.svg.png" alt="sqlite"/> <!-- SQLite -->
-<img width="48" height="48" src="./assets/icons/icons8-mongo-db-48.png" alt="mongo-db-icon"/> <!-- MongoDB -->
+<!--<img width="48" height="48" src="./assets/icons/icons8-mongo-db-48.png" alt="mongo-db-icon"/> --> <!-- MongoDB -->
 <img width="48" height="48" src="./assets/icons/icons8-nodo-js-48.png" alt="node-js"/> <!-- Node.Js -->
 <img width="48" height="48" src="./assets/icons/icons8-express-js-48.png" alt="express-js"/> <!-- Express.Js -->
 <img width="48" heigth="48" src="./assets/icons/fasApi-icon.webp" alt="fast-api-logo"/> <!-- FastApi -->
