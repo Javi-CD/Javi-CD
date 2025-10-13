@@ -30,7 +30,8 @@ Want to learn all the languages ​​and tools I use?
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+</p> -->
+
 
 
 
@@ -46,4 +47,5 @@ Want to learn all the languages ​​and tools I use?
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
     <img align="left" alt="GIF description"     src="./Skills_Animation_White.gif">
   </picture>
+</div>
 </div>
