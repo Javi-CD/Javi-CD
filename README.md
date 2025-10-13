@@ -34,6 +34,7 @@ Want to learn all the languages ​​and tools I use?
 
 
 
+
 <!-- - Student of life :)
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 - Lover of clean and scalable code
@@ -46,4 +47,5 @@ Want to learn all the languages ​​and tools I use?
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
     <img align="left" alt="GIF description"     src="./Skills_Animation_White.gif">
   </picture>
+</div>
 </div>
