@@ -106,7 +106,14 @@ Want to learn all the languages ​​and tools I use?
 
 </div>
 
----
+<br />
+
+<div align="center">
+
+**I hope you find the skill you're looking for.**
+
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
