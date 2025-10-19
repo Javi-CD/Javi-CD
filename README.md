@@ -16,7 +16,7 @@
 </div>
 
 <p align="left">
-  I am a <b>Backend developer and Automation Engineer</b>r with experience in <a href="https://nodejs.org">Node.Js</a>, <a href="https://expressjs.com/">Express.Js</a>, <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a>, <a href="https://www.python.org/">Python</a>, <a href="https://flask.palletsprojects.com/en/stable/">Flask</a> and among others, along with experience in building APIs, clean code practices, backend systems, etc.
+  I am a <b>Backend developer and Automation Engineer</b> with experience in <a href="https://nodejs.org">Node.Js</a>, <a href="https://expressjs.com/">Express.Js</a>, <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a>, <a href="https://www.python.org/">Python</a>, <a href="https://flask.palletsprojects.com/en/stable/">Flask</a> and among others, along with experience in building APIs, clean code practices, backend systems, etc.
 </p>
 
 ---
@@ -30,7 +30,7 @@ Want to learn all the languages ​​and tools I use?
 
 <details>
 
-<summary>See summary of languages</summary>
+<summary>See summary of tecnologies</summary>
 
 ### Languajes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
