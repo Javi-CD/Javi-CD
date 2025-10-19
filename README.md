@@ -28,6 +28,10 @@ Want to learn all the languages ​​and tools I use?
 
 [Click here!](./tecnologies.md)
 
+<details>
+
+<summary>See summary of languages</summary>
+
 ### Languajes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
@@ -105,6 +109,8 @@ Want to learn all the languages ​​and tools I use?
 ###### Resources By [Shields.io](https://img.shields.io)
 
 </div>
+
+</details>
 
 <br />
 
