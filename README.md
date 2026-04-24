@@ -1,19 +1,21 @@
 <!--Banner-->
   <img src="assets/bannerGif.gif"/>
 
-<div align="center">
-<a href="https:/github.com/Javi-Cd" target="_blank">
-    <img width="35" height="35" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
+<p align="center">
+  <a href="https:/github.com/Javi-Cd" target="_blank">
+    <img width="35" height="35" src="https://img.icons8.com/fluency/48/github.png" alt="github" />
   </a>
-<a href="https://wa.me/573022739647">
-    <img width="35" height="35" src="https://img.icons8.com/office/40/whatsapp--v3.png" alt="whatsapp--v3"/>
+  <a href="https://wa.me/573022739647">
+    <img width="35" height="35" src="https://img.icons8.com/office/40/whatsapp--v3.png" alt="whatsapp" />
   </a>
-<a href="mailto:javierperezdeveloper@gmail.com">
-    <img width="35" height="35" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-</a>
+  <a href="mailto:javierperezdeveloper@gmail.com">
+    <img width="35" height="35" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" />
+  </a>
+</p>
 
-  <p> <i>Backend Developer and Automation Engineer</i> </p>
-</div>
+<p align="center">
+  <i>Backend Developer and Automation Engineer</i>
+</p>
 
 <p align="left">
   I am a <b>Backend developer and Automation Engineer</b> with experience in <a href="https://nodejs.org">Node.Js</a>, <a href="https://expressjs.com/">Express.Js</a>, <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a>, <a href="https://www.python.org/">Python</a>, <a href="https://flask.palletsprojects.com/en/stable/">Flask</a> and among others, along with experience in building APIs, clean code practices, backend systems, etc.
@@ -82,12 +84,12 @@ Want to learn all the languages ​​and tools I use?
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
-![Husky](https://img.shields.io/badge/Husky-54433D?logo=husky&logoColor=white&style=for-the-badge)
 
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Husky](https://img.shields.io/badge/Husky-54433D?logo=husky&logoColor=white&style=for-the-badge)
 
 ### Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
